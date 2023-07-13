@@ -1,4 +1,4 @@
 ---
 title: tags
-subtitle: eternity
+subtitle: faris.photos
 ---

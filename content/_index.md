@@ -1,5 +1,5 @@
 ---
 desc:
-- Eternity is a minimalist Hugo theme
-- designed for portfolio sites with a fresh feel.
+- faris is taking photos
+- he's ready to cover your event
 ---
