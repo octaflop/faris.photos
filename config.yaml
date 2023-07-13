@@ -63,13 +63,13 @@ menu:
       url: /work/
       weight: 1
     - name: cameras
-      url: /tags/cameras/
+      url: /tags/camera/
       weight: 3
     - name: art
       url: /tags/art/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: events
+      url: /tags/events/
       weight: 3
     - name: archive
       url: /tags/archive/
