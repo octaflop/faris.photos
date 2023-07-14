@@ -14,16 +14,15 @@ params:
   portfolio:
     columns:
       desktop:
-        nature: 4
+        cameras: 4
         archive: 6
-        people: 2
+        events: 2
         default: 3
       mobile:
         default: 2
         archive: 3
-        people: 1
+        events: 1
   socials:
-    # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:faris@theluckybead.com'
       landing: true
