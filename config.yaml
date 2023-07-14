@@ -2,6 +2,7 @@ baseURL: https://faris.photos
 title: faris.photos
 defaultContentLanguage: 'en'
 theme: eternity
+timeout: "10m"
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
