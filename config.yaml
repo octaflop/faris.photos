@@ -1,5 +1,6 @@
-baseURL: https://faris.photos
 title: faris.photos
+baseURL: "/"
+# baseURL: https://faris.photos
 defaultContentLanguage: 'en'
 theme: eternity
 timeout: "10m"
